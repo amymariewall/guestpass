@@ -1,6 +1,3 @@
-= Guestpass
-
-This project rocks and uses MIT-LICENSE.
 
 # GuestPass Introduction
 
@@ -10,7 +7,7 @@ Allow guests to use index, show, and edit views of all resources (models)
 
 ###Define Problem
 
-There should be a simple way for guests users to preview all functionality within an application without having to create a new user and entire collections of the necessary associated objects.
+There should be a simple way for guests users to preview all functionality within an application without having to create a new User object and entire collections of associated objects.
 
 For example, a guest user should be able to preview dashboard pages within a storefront application that shows recent orders associated with a user, the account details associated with that user, etc.
 
