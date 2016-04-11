@@ -25,6 +25,8 @@ The "null" implementation will return useful data that allow guest users to prev
 
 Consider modifying ActiveRecord so model attributes are extracted into a module that extends to both instances of that model AND the nullobject counterpart Class of that model.
 
+Update - This is a thing, probably use this: (http://apidock.com/rails/Module/mattr_reader)
+
 Or consider how the nullobjects could inherit all attribute methods some other way.
 
 Concepts: 
