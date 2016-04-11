@@ -48,3 +48,5 @@ Sources:
 
 [Null Object Design Pattern] (http://www.cs.oberlin.edu/~jwalker/nullObjPattern/)
 
+[Devise Guests] (https://github.com/cbeer/devise-guests)
+
